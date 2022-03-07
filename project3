@@ -1,0 +1,163 @@
+<html>
+	<head>
+		<title>Aron Björn Leifsson</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body class="homepage is-preload">
+		<div id="page-wrapper">
+
+			<!-- Header -->
+				<section id="header">
+
+					<!-- Logo -->
+						<h1><a href="index.html">Aron Björn Leifsson</a></h1>
+
+					<!-- Nav -->
+						<nav id="nav">
+							<ul>
+								<li class="current"><a href="index.html">Home</a></li>
+								<li>
+									<a href="#">School Projects</a>
+									<ul>
+										<li><a href="#">Manufacturing Processes</a>
+											<ul>
+												<li><a href="project1.html">Project 1</a></li>
+                                                <li><a href="projects-fram/project2.html">Project 2</a></li>
+                                                <li><a href="project3.html">Project 3</a></li>
+                                                <li><a href="projects-fram/project4.html">Project 4</a></li>
+                                                <li><a href="projects-fram/project5.html">Project 5</a></li>
+                                                <li><a href="projects-fram/project6.html">Project 6</a></li>
+											</ul>
+									</ul>
+								</li>
+								<li><a href="resume.html">Resume</a></li>
+								<li><a href="#">Book reviews</a>
+                                    <ul>
+                                        <li><a href="#">Norwegian Wood</a></li>
+                                        <li><a href="#">Crime and Punishment</a></li>		
+								    </ul>
+                                </li>
+                                    
+								<!--li><a href="no-sidebar.html">No Sidebar</a></li-->
+							</ul>
+						</nav>
+
+
+				</section>
+<!-- Main -->
+				<section id="main">
+					<div class="container">
+                    <!-- Project 3 -->
+									<section>
+										<header class="major">
+											<h2>Project 3</h2>
+										</header>
+                                        <h3>The assignment</h3>
+                                        <p>Project 2 was split in three parts, a group exercise, where we measure kerf, an individual project where we had to create a parametric model of an object to cut and assemble it with pressfit box joints, and finally a we make a sticker using a vinyl cutter.
+                                        </p>
+                                         <h3>Kerf</h3>
+                                        <p>My friend and teammate for this exersice, Benni, is going to take you through how we went on measuring kerf on his website  <a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fben-ivars.github.io%2FVEL608G%2Fportfolio%2Fproject_2.html%3Ffbclid%3DIwAR1Kgjy4r_iZjcDxaeT38tXno_gvxrQRD2K93ld-AfyUtVTgjg40857FTJk%23kerf&h=AT2eXYWr_MB0etXlx6TgZhfHFI9fDtIrFOi4T1wAVBns3rQ-tw_QAmnjOVJ-ALM5_DxF0KomjQ8ff9Jt2HQiVCUq_quEylYxShxqqLBntWDmbhNoPrUtSnmo01bkW3FzqNqrYYPxmUI">here</a>
+                                        </p>
+                                        <h3>Pressfit lasercut project</h3>
+                                        <p>I really don't like working and studying at home. One of the reason for that is that my desk is messy and crowded with stuff. Messy desk makes it more difficult for me to concentrate </p>
+                                        <div>
+                                        <img src="images/messydesk.jpg" style="width:75%"/>
+                                        </div>
+                                        <p>I have 4 file folders, stuffed with my alot of uneccesary stuff f.x. a history book on ancient greece from high school, and it takes up to much space. So my idea is to make one neat little file folder only for important stuff and a space for me to put pens and stuff. That way I get rid of all the unimportant files and books and create more space on my desk. Less is sometimes more.
+                                        </p>
+                                        <p>I started by making some sketches to make it easier for when I start drawing on a computer. </p>
+                                        <div><img src="images/sketch.jpg" alt=""style="width: 40%" "height: 40%" /></div>
+                                        <p>Now I was almost ready to start drawing but I first had to learn how to make it parametric and press-fit. I watched <a href=>this</a> cool video to help me. Here is how I made it parametric</p>
+                                        <div><img src="images/parametric.png" style="width:75%"/>
+                                    </div>
+                                        <p>
+                                        I was now ready to start drawing. I used Fusion 360. Here's how it went</p>
+                                        <div><img src="images/teikningar.png" style="width:75%"/>
+                                    </div>
+                                        <p>In fusion you can put in the kerf that you want and it will adjust. I put it at 0.18mm. Then, export the file as a dxf file and open it up in Inkscape. Inkscape is vector graphics edidtor to create vector images. It is now ready for laser cutting. I used plywood, 4mm thickness, to cut out of. This is the final product. </p>
+                                         <div><img src="images/.png" style="width:75%"/>
+                                    </div>
+                                        The press-fit fitted nicely the only problem was I didn't add more. In the instructions video that I followed the gentleman only put fittings on the bottom but not for the sides. I should've done that and not follow the video so precisely. But it does its job and I am happy with the result.
+                                    <h3>Making a sticker using a vinyl cutter</h3>
+                                       <p> The final project of this assignment was to make a sticker using a vinyl cutter. I chose to make a Butters, from South Park, sticker. I see many similarities between us. I found a black and white svg(scalable graphics vector) figure of Butters. Import into Inkscape and trace the figure, make adjustments and export as svg.</p>
+                                        <div class="row2">
+                                              <div class="column1">
+                                                <img src="images/butters.png" style="width:50%">
+                                              </div>
+                                              <div class="column2">
+                                                <img src="images/adjustments.jpg" style="width:50%">
+                                              </div>
+                                            <div class="column3">
+                                                <img src="images/sticker_butters.jpg" style="width:50%">
+                                              </div>
+                                            </div>
+                                    <p>Love it.</p>
+                                    </section>
+        </div>
+            </section>
+     <!-- Footer -->
+				<section id="footer">
+					<div class="container">
+						<div class="row">
+							<!--div class="col-8 col-12-medium">
+				
+							</div-->
+							<div class="col-4 col-12-medium">
+								<section>
+									<header>
+										<h2>What's this all about?</h2>
+									</header>
+									<a href="#" class="image featured"><img src="images/freyja.jpg" alt="" /></a>
+									<p>
+										Þetta er hundurinn minn, Freyja.
+									</p>
+									
+								</section>
+							</div>
+							<!--div class="col-4 col-6-medium col-12-small">
+								
+							</div-->
+							<!--div class="col-4 col-6-medium col-12-small">
+								
+							</div-->
+							<div class="col-4 col-12-medium">
+								<section>
+									
+									<ul class="contact">
+										<li>
+											<h3>Address</h3>
+											<p>
+												Faxaskjól 12<br />
+												107 Reykjavík<br />
+								
+											</p>
+										</li>
+										<li>
+											<h3>Mail</h3>
+											<p><a href="#">abl9@hi.is</a></p>
+										</li>
+										<li>
+											<h3>Phone</h3>
+											<p>(354) 862-0918</p>
+										</li>
+									</ul>
+								</section>
+							</div>
+							<div class="col-12">
+
+								<!-- Copyright -->
+									<!--div id="copyright">
+										<ul class="links">
+											<li>&copy; Untitled. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+										</ul>
+									</div-->
+
+							</div>
+						</div>
+					</div>
+				</section>
+        </div>
+    </body>
+</html>
